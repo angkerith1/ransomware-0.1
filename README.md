@@ -1,2 +1,2 @@
 # ransomware-0.1
-Use ON VPS/RDP
+Use ON VPS/RDP / Linux
